@@ -565,7 +565,7 @@ const VehicleConsultationSection = memo(() => {
                       <circle cx="8.5" cy="7" r="4" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
                       <path d="M20 8v6M23 11l-3 3-3-3" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
                     </svg>
-                    Adquirir Consulta
+                    Falar com especialista
                   </Button>
                 </div>
               </DialogContent>
